@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-<img src='https://github.com/Kagl78/Kagl78/blob/main/black-cat-gif-24771506.htm'>
+![Static Badge](https://img.shields.io/badge/py-python-red?style=plastic&logo=python)
+
